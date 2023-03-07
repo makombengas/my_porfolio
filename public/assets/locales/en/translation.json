@@ -1,0 +1,30 @@
+{
+  "home": "Home",
+  "about_me": "About me",
+  "works": "Works",
+  "contact": "Contact",
+  "hire_now": "Hire now",
+  "contact_me": "Contact me",
+  "contactName": "Name",
+  "contactEmail": "Email",
+  "contactMessage": "Message",
+  "send": "Send",
+  "heroIntro": "Think. Make. Solve.",
+  "heroTitle": "What i do",
+  "heroSubTitle": "I enjoy creating delightful, human-centered digital experiences.",
+  "heroButton": "Learn more",
+  "aboutIntro": "Think outside the square space",
+  "aboutTitle": "who i'm",
+  "aboutSubTitle": "I'm a creative Designer and Developer with a passion for the arts.",
+  "aboutButton": "See my works",
+  "aboutCube": "Hello!",
+  "workWebDev": "Web design",
+  "workWebDevDesc": "I design products with a strong focus on both world class design and ensuring your product is a market success...",
+  "workDevelopment": "Development",
+  "workCamera": "Camera/Video editing",
+  "workProduct": "Product Design",
+  "workMusic": "Music composer",
+  "workSocial": "Social Media"
+  
+
+}
