@@ -8,6 +8,7 @@ import i18next from "i18next";
 import { TfiWorld } from "react-icons/tfi";
 import Dropdown from "react-bootstrap/Dropdown";
 import { HashLink } from "react-router-hash-link";
+import logo from "../../../.././public/image/logo.png";
 
 const Section = styled.div`
   display: flex;
@@ -248,7 +249,7 @@ const Navbar = () => {
       <Container>
         <Links>
           <HashLink smooth to="/#home" onClick={() => setShow(false)}>
-            <Logo src="../../../.././public/image/logo.png" />
+            <Logo src={logo} />
           </HashLink>
 
           <List show={show}>
