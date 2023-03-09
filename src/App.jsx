@@ -7,6 +7,7 @@ import styled from "styled-components";
 import Navbar from "./components/Hero/Navbar/Navbar";
 import { RxHome } from "react-icons/rx";
 import { HashLink } from "react-router-hash-link";
+import africa from ".././public/image/africa.jpg";
 
 const Container = styled.div`
   height: 100vh;
@@ -21,7 +22,7 @@ const Container = styled.div`
       rgb(0, 11, 41),
       rgba(19, 101, 149, 0.301)
     ),
-    url(".././public/image/africa.jpg"), linear-gradient(#eb01a5, #d13531);
+    url(${africa}), linear-gradient(#eb01a5, #d13531);
   &::-webkit-scrollbar {
     display: none;
   }
